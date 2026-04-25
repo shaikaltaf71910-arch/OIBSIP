@@ -16,40 +16,40 @@ In this task, I performed Exploratory Data Analysis on two datasets to understan
 
 
 🧹 Data Cleaning
-- Removed duplicate values  
-- Converted units (oz to grams, fl oz to ml)  
-- Extracted numbers from text values  
-- Fixed inconsistent formats  
+- Removed duplicate values. 
+- Converted units (oz to grams, fl oz to ml). 
+- Extracted numbers from text values.  
+- Fixed inconsistent formats.  
 
 
 📈 Analysis
-- Created Pivot Tables  
-- Calculated total and average values  
-- Compared categories based on calories, fat, and protein  
+- Created Pivot Tables.  
+- Calculated total and average values.  
+- Compared categories based on calories, fat, and protein.  
 
 
 📊 Visualizations
-- Bar Charts → Category comparison  
-- Pie Charts → Distribution of values  
-- Radar Charts → Nutrient comparison
+- Bar Charts → Category comparison.  
+- Pie Charts → Distribution of values.  
+- Radar Charts → Nutrient comparison.
 
 
 🔍 Insights
 
 From Dataset 1:
-- Sales vary across categories  
-- Some categories perform better than others  
+- Sales vary across categories.  
+- Some categories perform better than others. 
 
 From Dataset 2:
-- Breakfast has high calories and fat  
-- Coffee & Tea has high protein  
-- Beverages have low fat  
+- Breakfast has high calories and fat.  
+- Coffee & Tea has high protein.  
+- Beverages have low fat.  
 
 
-🛠 Tools Used
+🛠 Tools Used:
 - Microsoft Excel  
 - Pivot Tables  
 - Charts  
 
-📌 Conclusion
+📌 Conclusion:
 This project helped in understanding data cleaning, analysis, and visualization using Excel.
